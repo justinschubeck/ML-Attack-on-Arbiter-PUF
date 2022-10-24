@@ -46,10 +46,10 @@ Students: <br />
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-**Main Objective **
-In this project, you will learn that PUFs are not perfect! In particular, you will perform a machine learning (ML) based attack on arbiter PUFs.
+**Main Objective**<br />
+In this project, we learned that PUFs are not perfect! In particular, we performed a machine learning (ML) based attack on arbiter PUFs.
 
-**Background** 
+**Background** <br />
 Research shows that arbiter PUFs can be modeled with certain machine learning techniques [1], [2]. If adversaries can accurately model a PUF, they can predict its challenge response pairs and impersonate the PUF, thereby breaking the security of protocols that rely on the response being unpredictable.
 
 In the simplest form, a machine learning-based modeling attack proceeds as follows:
@@ -58,16 +58,14 @@ In the simplest form, a machine learning-based modeling attack proceeds as follo
 3. A mathematical model is constructed of the PUF, and parameters of the model are derived (or, equivalently, “the model
 is trained”) using known challenge-response pairs.
 4. New challenges can now be supplied to the trained model (which now acts as the software clone of the original PUF)
-to predict the real PUF’s responses.
+to predict the real PUF’s responses.<br />
 More efficient modeling attacks are those that accurately model a PUF’s responses given a small number of challenge-response
 pairs.
 
-**Project Goal**
-1. For the given CRP dataset (CRPSets.zip), implement (G: two, UG: one) machine learning technique(s) for predicting
-PUF responses given previously-unseen inputs (SVM: [1,3], regression: [2]). In other words, train your model using
-the different training/testing splits as described in “Results to submit”.
-2. Evaluate your model. Use CRPs that were not in your training set to determine how well your model predicts the PUF
-output for inputs that it has not previously seen.
+**Project Goal**<br />
+1. For the given CRP dataset (CRPSets.zip), we implemented two machine learning technique(s) for predicting
+PUF responses given previously-unseen inputs (SVM: [1,3], regression: [2]). In other words, we trained our models using different training/testing splits.
+2. Evaluating our model. We used CRPs that were not in our training set to determine how well our model predicts the PUF output for inputs that it has not previously seen.
 
 
 <!-- GETTING STARTED -->
@@ -85,7 +83,7 @@ output for inputs that it has not previously seen.
 2. Setup (and activate) your environment
 
 ### Running
-**No additional actions should have to be taken by the user in order for the program to run successfully.**
+No additional actions should have to be taken by the user in order for the program to run successfully.
 
 **File Descriptions**
 * ```Test.ipynb```: This file loads in the testing dataset and the model files and performs evaluation on the test set. 
@@ -103,7 +101,7 @@ Project Link: [https://github.com/justinschubeck/ML-Attack-on-Arbiter-PUF](https
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* [Catia Silva (readme template)](https://faculty.eng.ufl.edu/catia-silva/)
+* [Dr. Catia Silva (readme template)](https://faculty.eng.ufl.edu/catia-silva/)
 * [Nurun N. Mondol (teaching assistant)](https://fics.institute.ufl.edu/index.php/about/students/)
 
 1. Rhrmair, Ulrich, et al. “PUF modeling attacks on simulated and silicon data.” IEEE Transactions on Information Forensics and Security 8.11 (2013): 1876-1891.
