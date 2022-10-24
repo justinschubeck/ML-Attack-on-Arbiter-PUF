@@ -11,7 +11,7 @@
   </p>
 </p>
 
-## University of Florida : [Electrical and Computer Engineering](https://www.ece.ufl.edu/)<br />EEE5716 - Introduction to Hardware Security and Trust Fall 2022
+## University of Florida : [Electrical and Computer Engineering](https://www.ece.ufl.edu/)<br />[EEE5716 - Introduction to Hardware Security and Trust Fall 2022]*(https://www.ece.ufl.edu/wp-content/uploads/syllabi/Fall2022/EEE5716_Intro_Hardware_Sec_Trust_Farahmandi_Fall_2022.pdf)
 Faculty: <br />
 [Dr. Fahahmandi](https://www.ece.ufl.edu/people/faculty/farimah-farahmandi/) <br />
 [Dr. Tehranipoor](https://www.ece.ufl.edu/people/faculty/mark-m-tehranipoor/) <br />
