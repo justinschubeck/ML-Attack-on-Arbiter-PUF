@@ -1,19 +1,22 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://www.realsimple.com/thmb/rfBe1K9dir2LHZiNHN-t8PApZmQ=/2000x1500/filters:fill(auto,1)/impulse-buying-2000-d569eacebb0c48fa8766965d0352151c.jpg">
-    <img src="images/supermarket.jpg" alt="Logo" width="150" height="150">
+  <a href="https://www.researchgate.net/figure/The-Arbiter-PUF-structure_fig1_228851018">
+    <img src="images/The-Arbiter-PUF-structure.png" alt="Logo" width="150" height="150">
   </a>
 
-  <h3 align="center">Building & Evaluating ML Algorithms</h3>
+  <h3 align="center">Machine Learning Attack on Arbiter PUF</h3>
   <p align="center">
-    by: Justin Schubeck
+    by: Justin Schubeck, Alex Liu, Yash Bhat
   </p>
 </p>
 
-## University of Florida : [Electrical and Computer Engineering](https://www.ece.ufl.edu/)<br />EEL5934 - Applied Machine Learning Systems Fall 2022
-Faculty: [Dr. Silva](https://www.ece.ufl.edu/people/faculty/catia-silva/) <br />
+## University of Florida : [Electrical and Computer Engineering](https://www.ece.ufl.edu/)<br />EEE5716 - Introduction to Hardware Security and Trust Fall 2022
+Faculty: [Dr. Fahahmandi](https://www.ece.ufl.edu/people/faculty/farimah-farahmandi/) <br />
+[Dr. Tehranipoor](https://www.ece.ufl.edu/people/faculty/mark-m-tehranipoor/) <br />
 Students: [Justin Schubeck](https://www.linkedin.com/in/justinschubeck/) <br />
+[Alex Liu](https://www.linkedin.com/in/alex-liu-m1/) <br />
+[Yash Bhat](https://www.linkedin.com/in/yash-bhat/)
 
 
 
@@ -89,13 +92,15 @@ This project was run in the UFRC Python-3.10 kernel on HiPerGator.
 ## Authors
 
 * Justin Schubeck - jschubeck@ufl.edu
+* Alex Liu - aliu1@ufl.edu
+* Yash Bhat - bhat.yashasvi@ufl.edu
 
-Project Link: [https://github.com/UF-Applied-ML-Systems-F22/project-1-justinschubeck](https://github.com/UF-Applied-ML-Systems-F22/project-1-justinschubeck)
+Project Link: [https://github.com/justinschubeck/ML-Attack-on-Arbiter-PUF](https://github.com/justinschubeck/ML-Attack-on-Arbiter-PUF)
 
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* [Catia Silva](https://faculty.eng.ufl.edu/catia-silva/)
+* [Catia Silva (readme template)](https://faculty.eng.ufl.edu/catia-silva/)
 
 ## Thank you
