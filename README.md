@@ -11,7 +11,7 @@
   </p>
 </p>
 
-## University of Florida : [Electrical and Computer Engineering](https://www.ece.ufl.edu/)<br />[EEE5716 - Introduction to Hardware Security and Trust Fall 2022]*(https://www.ece.ufl.edu/wp-content/uploads/syllabi/Fall2022/EEE5716_Intro_Hardware_Sec_Trust_Farahmandi_Fall_2022.pdf)
+## University of Florida : [Electrical and Computer Engineering](https://www.ece.ufl.edu/)<br />[EEE5716 - Introduction to Hardware Security and Trust Fall 2022](https://www.ece.ufl.edu/wp-content/uploads/syllabi/Fall2022/EEE5716_Intro_Hardware_Sec_Trust_Farahmandi_Fall_2022.pdf)
 Faculty: <br />
 [Dr. Fahahmandi](https://www.ece.ufl.edu/people/faculty/farimah-farahmandi/) <br />
 [Dr. Tehranipoor](https://www.ece.ufl.edu/people/faculty/mark-m-tehranipoor/) <br />
@@ -63,8 +63,7 @@ More efficient modeling attacks are those that accurately model a PUF’s respon
 pairs.
 
 **Project Goal**<br />
-1. For the given CRP dataset (CRPSets.zip), we implemented two machine learning technique(s) for predicting
-PUF responses given previously-unseen inputs (SVM: [1,3], regression: [2]). In other words, we trained our models using different training/testing splits.
+1. For the given CRP dataset CRPSets.xls, we implemented two machine learning technique(s) for predicting PUF responses given previously-unseen inputs (SVM: [1,3], regression: [2]). In other words, we trained our models using different training/testing splits.
 2. Evaluating our model. We used CRPs that were not in our training set to determine how well our model predicts the PUF output for inputs that it has not previously seen.
 
 
