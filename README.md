@@ -85,7 +85,7 @@ pairs.
 No additional actions should have to be taken by the user in order for the program to run successfully.
 
 **File Descriptions**
-* ```Test.ipynb```: This file loads in the testing dataset and the model files and performs evaluation on the test set. 
+* ```FinalProject.ipynb```: This file will load, split, and train on the data, then find the CRPs needed to attack successfully.
 
 <!-- Authors -->
 ## Authors
