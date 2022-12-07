@@ -71,7 +71,11 @@ pairs.
 ## Getting Started
 
 ### Dependencies
-* NumPy 1.22.4
+* NumPy 1.21.5
+* Pandas 1.3.5
+* Matplotlib 3.5.1
+* Scikit Learn 1.0.2
+* Scipy 1.7.3
 
 ### Installation
 
@@ -80,9 +84,12 @@ pairs.
    git clone https://github.com/justinschubeck/ML-Attack-on-Arbiter-PUF.git
    ```
 2. Setup (and activate) your environment
+   ```sh
+   conda create --name group1Env numpy=1.21.5 pandas=1.3.5 matplotlib=3.5.1 scikit-learn=1.0.2 scipy=1.7.3
+   ```
 
 ### Running
-No additional actions should have to be taken by the user in order for the program to run successfully.
+The Jupyter Notebook can be run from start without any other input from the user.
 
 **File Descriptions**
 * ```FinalProject.ipynb```: This file will load, split, and train on the data, then find the CRPs needed to attack successfully.
